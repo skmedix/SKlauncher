@@ -1,0 +1,17 @@
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
+
+#
+# The above will handle all files NOT found below
+#
+# These files are text and should be normalized (Convert crlf => lf)
+*.json          text
+*.properties    text
+
+#
+# The above will handle all files NOT found below
+#
+# These files should be normalized to UTF-8 encoding
+*.json          encoding=UTF-8
+*.properties    encoding=UTF-8
