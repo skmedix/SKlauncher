@@ -1,0 +1,13 @@
+# https://help.github.com/articles/about-codeowners/
+# please keep this file in the same order as files
+
+assets/lang/sklmessages_en_US.** @skmedix
+assets/lang/sklmessages_eo.** @Waterrail
+assets/lang/sklmessages_es_ES.** @atesin
+# assets/lang/sklmessages_fr_FR.**
+assets/lang/sklmessages_hu_HU.** @Gbr22 
+assets/lang/sklmessages_nb_NO.** @SirLexPLAY
+assets/lang/sklmessages_pl_PL.** @Waterrail @Greg-21
+assets/lang/sklmessages_pt_BR.** @TheusKhan
+assets/lang/sklmessages_tr_TR.** @honorsea
+assets/lang/sklmessages_vi_VN.** @TrueEL
