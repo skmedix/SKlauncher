@@ -1,15 +1,17 @@
+# Link to the documentation:
 # https://help.github.com/articles/about-codeowners/
-# please keep this file in the same order as files
 
-# assets/launcher/lang/sklmessages_cs_CZ.**
-assets/launcher/lang/sklmessages_en_US.** @skmedix
-assets/launcher/lang/sklmessages_eo.** @Waterrail
-assets/launcher/lang/sklmessages_es_ES.** @atesin
-# assets/launcher/lang/sklmessages_fr_FR.**
-assets/launcher/lang/sklmessages_hu_HU.** @Gbr22
-assets/launcher/lang/sklmessages_nb_NO.** @SirLexPLAY
-assets/launcher/lang/sklmessages_pl_PL.** @Waterrail @Greg-21 @Indexer
-assets/launcher/lang/sklmessages_pt_BR.** @TheusKhan
-assets/launcher/lang/sklmessages_tr_TR.** @honorsea
-assets/launcher/lang/sklmessages_vi_VN.** @TrueEL
-# assets/launcher/lang/sklmessages_zh_CN.**
+# Please keep the entries below in an alphabetical order.
+
+# assets/launcher/lang/sklmessages_cs_CZ.*
+assets/launcher/lang/sklmessages_en_US.* @skmedix
+assets/launcher/lang/sklmessages_eo.* @Waterrail
+assets/launcher/lang/sklmessages_es_ES.* @atesin
+# assets/launcher/lang/sklmessages_fr_FR.*
+assets/launcher/lang/sklmessages_hu_HU.* @Gbr22
+assets/launcher/lang/sklmessages_nb_NO.* @SirLexPLAY
+assets/launcher/lang/sklmessages_pl_PL.* @Waterrail
+assets/launcher/lang/sklmessages_pt_BR.* @TheusKhan
+assets/launcher/lang/sklmessages_tr_TR.* @honorsea
+assets/launcher/lang/sklmessages_vi_VN.* @TrueEL
+# assets/launcher/lang/sklmessages_zh_CN.*
