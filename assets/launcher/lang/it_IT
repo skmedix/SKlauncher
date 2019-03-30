@@ -1,0 +1,112 @@
+lang.name=Italian
+lang.code=it_IT
+
+tab.news=Aggiornamenti
+tab.log=Log del Launcher
+tab.output=Output del Gioco (%s)
+tab.crash=Crash Report (%s)
+
+sidebar.switch=Cambia Utente
+sidebar.new=Nuovo Profilo
+sidebar.edit=Modifica Profilo
+sidebar.browse=Apri la Cartella del Profilo
+sidebar.delete=Cancella Profilo
+sidebar.profiles=Profili Installati
+sidebar.loading=Caricando i Profili...
+sidebar.settings=Impostazioni del Launcher
+sidebar.player=Giocatore
+sidebar.guest=Benvenuto, ospite! Per favore accedi.
+sidebar.versions=Caricando le versioni...
+sidebar.ready.play=Pronto a giocare
+sidebar.ready.update=Pronto ad aggiornare e giocare
+sidebar.ready.download=Pronto a scaricare e giocare
+
+game.status.play=Gioca
+game.status.play.demo=Gioca Demo
+game.status.play.offline=Gioca Offline
+game.status.playing=Giocando...
+game.status.already=Ancora Giocando...
+game.status.loading=Caricando...
+game.status.preparing=Preparando...
+game.status.downloading=Scaricando...
+game.status.installing=Installando...
+game.status.launching=Lanciando...
+game.status.idle=Inattivo
+
+game.output.open=Apri Console Popu
+game.output.lines=Cambia console co
+game.output.type.list=Lista
+game.output.type.text=Testo
+
+game.conflict.title=Avvertimento di Gioco Duplicato
+game.conflict.header=Hai già un gioco di Minecraft eseguito.
+game.conflict.text=Se ne lanci un altro nella stessa cartella, potrebbero scontrarsi e corrompere i tuoi salvataggi. \nQuesto potrebbe causare molti problemi, nel giocatore singolo o altrimenti. Noi non saremo responsabili per qualunque cosa che che vada male. \nVuoi iniziare un altro gioco di Minecraft, nonostante questo? \nPotresti risolvere questo problema lanciando il gioco in una diversa cartella (vedi il pulsante "Modifica Profilo").
+
+login.username=Indirizzo Email Mojang
+login.username.offline=Nome Utente
+login.password=Password
+login.offline=Offline
+login.login=Accedi
+login.existing.name=Utenti che hanno Accesso
+login.existing.play=Gioca
+login.existing.logout=Esci
+
+editor.name=Nome del Profilo
+editor.copy=Copia di %s
+editor.gamedir=Cartella del Gioco
+editor.resolution=Risoluzione
+editor.visibility=Visibilità del Launcher
+editor.hide=Nascondi il launcher e riaprilo quando il gioco si chiude
+editor.close=Chiudi il launcher quando il gioco si apre
+editor.keep=Tieni il launcher aperto
+editor.snap=Snapshots
+editor.snap.tooltip=Permetti l'uso di versioni di sviluppo sperimentali ("snapshots")
+editor.historical=Storiche
+editor.historical.tooltip=Permetti l'uso di versioni di Minecraft "Alpha" e "Beta" (dal 2010–2011)
+editor.version=Usa versione
+editor.latest=Usa ultima versione
+editor.compatibility=Modalità Compatibilità
+editor.compatibility.subtext=Questa opzione disattiva la caratteristica delle skin.
+editor.compatibility.sublink=Leggi di più
+editor.compatibility.alert.title=Modalità Compatibilità
+editor.compatibility.alert.text=Questa opzione potrebbe essere richiesta per alcuni specifici modpacks, ma molte volte non è così. Attiva questo solo se sai che stai facendo!
+editor.advanced=Opzioni Avanzate
+editor.exe=Eseguibile Java
+editor.jvm=Argomenti JVM
+editor.alert.title=Conferma della Cancellazione del Profilo
+editor.alert.text=Sei sicuro di voler cancellare questo profilo? Sarà perso per sempre!
+editor.cancel=Annulla
+editor.delete=Cancella Profilo
+editor.browse=Apri la Cartella del Gioco
+editor.save=Salva Profilo
+
+settings.title=Impostazioni del Launcher
+settings.lang=Lingua
+settings.lang.help=Non vedi la tua lingua?
+settings.lang.link=Aiutaci a tradurre!
+settings.theme.light=Tema Chiaro
+settings.theme.dark=Tema Scuro
+settings.token=Token di Accesso alla Beta
+settings.alert.title=Richiede il Riavvio
+settings.alert.text=Hai bisogno di riavviare il launcher per applicare i cambiamenti.
+settings.cancel=Annulla
+settings.save=Salva
+
+crash.sorry=Uhoh! Sembra che il gioco sia crashato. Ci dispiace per l'inconveniente :(
+crash.vanilla=Usando la magia e l\'amore, siamo riusciti a raccogliere dei dettagli sul crash, e investigheremo questo al più presto. Puoi vedere l'intero repor qui sotto.
+crash.modded=Pensiamo che il tuo gioco possa essere moddato, e per questo non possiamo accetare questo crash. Tuttavia, se effettivamente usi mods, per favore manda questo agli autori delle mods per farglielo vedere.
+crash.open=Apri il file di report
+
+crash.alert.title=Oops! Il gioco è crashato
+crash.alert.text=Ma abbiamo trovato una possibile soluzione al tuo problema. Vuoi vederla ora?
+crash.alert.button.ignore=Ignora
+crash.alert.button.open=Apri il sito web
+
+console.title=%s Console
+console.description=Questa console esegue %s profilo per l'utente %s
+
+alert.button.confirm=Conferma
+alert.button.cancel=Annulla
+
+about.translation=Tradotto da:
+about.translation.authors=LorenzoPapi(curseforgeUsername:lorenzoPapiVero)
