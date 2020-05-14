@@ -9,7 +9,7 @@ Useful links
 
 FAQ
 ---
-###**Q: When I try to join the server I'm getting the error "Invalid session"**
+### **Q: When I try to join the server I'm getting the error "Invalid session"**
 A: The server that you trying to join is in online-mode (premium) so you can't join it.
 (If you're an admin of the server, change the option online-mode to false in file server.properties)
 
