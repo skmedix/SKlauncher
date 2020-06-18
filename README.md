@@ -59,8 +59,7 @@ A: Yes, you require Forge for the modifications, as well as 2 or more RAM to wor
 ### **Q: Will Rift or Fabric etc. mods work too?**
 A: Yes, they will also work.
 
-### **Q: Blazingpack does not work**
-#### **Q: Going into Friends tab on Hypixel hangs the game**
+### **Q: Blazingpack does not work / Going into Friends tab on Hypixel hangs the game**
 A: Turn on compatibility mode in profle settings (Game Settings - > Compatibility mode)
 
 ### **Q: Launcher doesn't start / Launcher is stuck on "Loading"**
