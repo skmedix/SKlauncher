@@ -23,7 +23,6 @@ Before you ask a question on [issues tab](https://github.com/skmedix/SKlauncher/
 * [Will Rift or Fabric etc. mods work too?](#q-will-rift-or-fabric-etc-mods-work-too)
 * [Blazingpack does not work/Going into Friends tab on Hypixel hangs the game](#q-blazingpack-does-not-work)
 * [Launcher doesn't start / Launcher is stuck on "Loading"](#q-launcher-doesnt-start--launcher-is-stuck-on-loading)
-* [Skins are not working](#q-skins-are-not-working)
 
 ### **Q: When I try to join the server I'm getting the error "Invalid session"**
 A: The server that you trying to join is in online-mode (premium) so you can't join it.
@@ -66,6 +65,3 @@ A: Turn on compatibility mode in profle settings (Game Settings - > Compatibilit
 A: Try to delete folders from other launchers in .minecraft folder,
 Other solution is to delete sklauncher folder in .minecraft and install it again,
 If the solutions above doesnt work, check Firewall or your Anti-virus program, it might block Java from running.
-
-### **Q: Skins are not working**
-Skins are **DISABLED** due to high traffic and **WILL STAY DISABLED** until further notice. Asking the question "When skins will be enabled" over and over will get you no response other than this one.
