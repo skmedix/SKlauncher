@@ -2,6 +2,6 @@
 
 Useful links
 ---
-* [Official SKlauncher website](https://skmedix.pl/sklauncher)
+* [Official SKlauncher website](https://skmedix.pl)
 * [Discord server](https://discord.gg/BdCcpDZ)
 * [Language codes](https://minecraft.gamepedia.com/Language#Available_languages)
