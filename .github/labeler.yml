@@ -1,0 +1,4 @@
+'Target: Launcher':
+  - '**/assets/launcher/**'
+'Type: Asset':
+  - '**/assets/launcher/lang/**'
