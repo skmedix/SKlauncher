@@ -1,6 +1,5 @@
 # SKlauncher
 
-
 Useful links
 ---
 * [Official SKlauncher website](https://skmedix.pl)
