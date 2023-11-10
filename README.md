@@ -23,7 +23,7 @@ Thank you in advance!
 
 <!-- URLs -->
 [guide-url]: <https://docs.skmedix.pl/category/contributions>
-[discord-url]: <https://discord.gg/BdCpcpD>
+[discord-url]: <https://discord.gg/BdCcpDZ>
 [github-url]: <https://www.github.com/skmedix/SKlauncher>
 [site-url]: <https://skmedix.pl>
 
