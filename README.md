@@ -1,4 +1,4 @@
-<img src="https://skmedix.pl/images/logo.png" alt="SKlauncher logo" align="right" width="256" height="256"/>
+<img src="https://skmedix.pl/images/logo.png" alt="SKlauncher logo" align="right" width="25%" height="25%"/>
 
 # SKlauncher #
 
