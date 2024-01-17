@@ -1,4 +1,6 @@
 'Target: Launcher':
-  - '**/assets/launcher/**'
+  - changed-files:
+    - any-glob-to-any-file: '**/assets/launcher/**'
 'Type: Asset':
-  - '**/assets/launcher/lang/**'
+  - changed-files:
+    - any-glob-to-any-file: '**/assets/launcher/lang/**'
