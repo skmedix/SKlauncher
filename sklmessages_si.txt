@@ -1,0 +1,199 @@
+lang.name=Sinhala (SI)
+lang.code=(SI) ISO_639_1
+
+general.issues=ගැටලුවක් වාර්තා කරන්න
+general.support=Patreon මත අපට සහාය වන්න
+general.discord=අපගේ Discord සමූහයට  සම්බන්ධ වන්න
+general.notready=මෙම විශේෂාංගය තවමත් සූදානම් නැත!
+
+generic.disabled=ක්‍රියා විරහිත කර ඇත 
+generic.enabled=ක්‍රියාත්මක කර ඇත 
+generic.soon=ලගදීම 
+generic.new=අලුතෙන් 
+generic.loading=Loading...
+
+tab.news=යාවත්කාලීන පුවත්
+tab.log=Launcher Log
+tab.output=Game Output (%s)
+tab.crash=Crash Report (%s)
+
+# Sidebar
+sidebar.label.logged=ලොග් වී ඇත්තේ 
+sidebar.label.player=ක්‍රීඩකයා 
+sidebar.button.switch=පරිශීලක මාරු කරන්න
+sidebar.button.settings=Launcher සැකසුම්
+sidebar.button.manager=ස්ථාපන කළමනාකරු
+sidebar.menu.item.edit=ස්ථාපනය සංස්කරණය කරන්න
+sidebar.menu.item.duplicate=ස්ථාපනය පිටපත් කරන්න
+sidebar.menu.item.browse=ස්ථාපන ෆෝල්ඩරය විවෘත කරන්න
+sidebar.menu.item.delete=ස්ථාපනය මකන්න
+sidebar.game.button.play=ක්‍රීඩා කරන්න 
+sidebar.game.button.play.demo=නිරූපණය ක්‍රීඩා කරන්න
+sidebar.game.button.play.offline=නොබැඳි ලෙස සෙල්ලම් කරන්න
+sidebar.game.button.playing=ක්‍රීඩා කරමින් 
+sidebar.game.button.already=දැනටමත් ක්‍රීඩා කරමින්
+sidebar.game.button.loading=Loading
+sidebar.game.button.preparing=සූදානම් කරමින් 
+sidebar.game.button.downloading=බාගත කරමින් 
+sidebar.game.button.installing=ස්ථාපනය කරමින් 
+sidebar.game.button.launching=දියත් කරමින්
+sidebar.game.button.idle=නිෂ්ක්‍රීයයි
+
+# Versions List
+versions.category.vanilla=වැනිලා
+versions.category.modded=Modded
+versions.type.stable=ස්ථාවර
+versions.type.release=නිකුත් කරන ලද 
+versions.type.pending=පර්යේෂණාත්මක
+versions.type.snapshot=ස්නැප්ෂොට්
+versions.type.historical=ඓතිහාසික
+versions.type.old_beta=පැරණි Beta
+versions.type.old_alpha=පැරණි Alpha
+versions.type.custom=අභිරුචි
+versions.type.removed=ඉවත් කළා
+versions.version.latest=නවතම
+versions.version.latestalt=නවතම පිටපත
+versions.version.latest-release=නවතම නිකුත් කරන ලද
+versions.version.latest-snapshot=නවතම ස්නැප්ෂොට්
+
+# Crash Screen
+crash.sorry=ඔහ්! ක්‍රීඩාව බිඳ වැටී ඇති බව පෙනේ. අපහසුතාවයට කනගාටුයි :(
+crash.vanilla=මැජික් සහ ආදරය භාවිතා කරමින්, අපි බිඳවැටීම ගැන යම් විස්තර එකතු කර ගැනීමට සමත් වූ අතර, අපි හැකි ඉක්මනින් මෙය විමර්ශනය කරන්නෙමු. ඔබට සම්පූර්ණ වාර්තාව පහතින් නැරඹිය හැක.
+crash.modded=ඔබගේ ක්‍රීඩාව වෙනස් කර ඇති බව අපි සිතමු, එබැවින් අපට මෙම බිඳ වැටීම් වාර්තාව පිළිගත නොහැක. කෙසේ වෙතත්, ඔබ සැබවින්ම mods භාවිතා කරන්නේ නම්, කරුණාකර මෙය බැලීමට mod කතුවරුන් වෙත යවන්න.
+crash.open=වාර්තා ගොනුව විවෘත කරන්න
+crash.alert.title=අපොයි! ක්‍රීඩාව බිඳ වැටී ඇත
+crash.alert.text=නමුත් අපි ඔබේ ගැටලුවට හැකි විසඳුමක් සොයා ගත්තෙමු. ඔබට දැන් එය පරීක්ෂා කිරීමට අවශ්‍යද?
+crash.alert.button.ignore=නොසලකා හරින්න 
+crash.alert.button.open=වෙබ් අඩවිය විවෘත කරන්න
+
+# Crash Popup
+crash.header.title=ක්‍රීඩාව කඩා වැටුණා
+crash.footer.button.close=වසන්න
+crash.footer.button.view=වාර්තාව බලන්න
+crash.footer.button.link=වාර්තා කිරීමට සබැඳිය ලබා ගන්න
+
+# Alerts
+alert.button.confirm=තහවුරු කරන්න
+alert.button.cancel=අවලංගු කරන්න
+
+# About
+about.translation=පරිවර්තනය කළේ:
+about.translation.authors=Cpt aka cpt_deezer
+
+# Login Screen
+login.button.type.microsoft=Microsoft සමඟ ලොග් වන්න
+login.button.type.offline=නොබැඳිව පුරනය වන්න
+login.label.username=පරිශීලක නාමය
+login.dropdown.name=පුරනය වූ පරිශීලකයින්
+login.button.play=ක්‍රීඩා කරන්න 
+login.button.logout=පුරනය අවලංගු කරන්න 
+login.button.switch.offline=නොබැඳි මාදිලියට මාරු වන්න
+login.button.switch.online=සබැඳි මාදිලියට මාරු වන්න
+
+# Settings
+settings.header.general=සාමාන්‍ය 
+settings.header.updates=යාවත්කාලීන කිරීම්
+settings.header.about=සම්බන්ධයෙන් 
+settings.footer.button.save=සුරකින්න
+
+settings.option.language.name=භාෂාව
+settings.option.language.info=වෙනස්කම් යෙදීම සඳහා ඔබ launcher එක නැවත ආරම්භ කළ යුතුය.
+settings.option.accent.name=ප්‍රධාන වර්ණය
+settings.option.theme.name=වර්ණ තේමාව
+settings.option.theme.light.name=ලා තේමාව
+settings.option.theme.dark.name=අඳුරු තේමාව
+settings.option.theme.black.name=කළු තේමාව
+settings.option.sorting.name=ස්ථාපන වර්ග කිරීම
+settings.option.sorting.bylastplayed.name=අවසන් වරට ක්‍රීඩා කරන ලද පරිදි ස්ථාපනයන් වර්ග කරන්න
+settings.option.sorting.byname.name=ස්ථාපනයන් නම් අනුව වර්ග කරන්න
+settings.option.sorting.custom.name=අභිරුචිය ට අනුව වර්ග කිරීම
+settings.option.default.name=පෙරනිමි ස්ථාපනයන් සඟවන්න
+settings.option.console.name=Launcher Console පෙන්වන්න
+settings.option.xmx.name=Xmx තර්කනවලට ඉඩ දෙන්න
+settings.option.xmx.info=ඔබ කරන්නේ කුමක්දැයි ඔබ දන්නේ නම් මෙම විකල්පය භාවිතා කරන්න
+settings.option.performance.name=කාර්ය සාධන මාදිලිය
+settings.option.performance.info=මෙම විකල්පය සමහර සජීවිකරණ අක්‍රිය කරයි
+settings.option.halloween.name=Halloween මාදිලිය
+settings.option.xmas.name=නත්තල් මාදිලිය
+settings.option.provider.name=පෙරනිමි Modpack සැපයුම්කරු
+
+settings.about.contributors=ස්තුතිය හිමි වන දායකයින්:
+
+# Installations Manager
+manager.header.profiles=ස්ථාපනයන්
+manager.header.modpacks=Modpacks
+manager.header.mods=Mods
+manager.header.resourcepacks=Resource Packs
+manager.header.maps=සිතියම්
+manager.header.shaders=Shaders
+
+manager.button.new=නව ස්ථාපනය
+manager.button.import=Modpack එක ආනයනය කරන්න
+manager.profile.button.play=ක්‍රීඩා කරන්න 
+manager.profile.menu.edit=සංස්කරණය කරන්න
+manager.profile.menu.duplicate=අනුපිටපත් කරන්න
+manager.profile.menu.delete=මකන්න
+
+manager.editor.header.title=ස්ථාපනය සංස්කරණය කරන්න
+manager.editor.footer.button.save=සුරකින්න
+manager.editor.option.name.name=ස්ථාපන නම
+manager.editor.option.name.placeholder=නම් නොකළ ස්ථාපනය
+manager.editor.option.version.name=පිටපත
+manager.editor.option.version.vanilla=වැනිලා
+manager.editor.option.directory.name=ක්‍රීඩා නාමාවලිය
+manager.editor.option.directory.placeholder=පෙරනිමි නාමාවලිය භාවිතා කරන්න
+manager.editor.option.directory.info.label=සමහර mods වලට .minecraft ෆෝල්ඩරය තුළ ස්ථාපනය අවශ්‍ය විය හැක. .minecraft ක්‍රීඩා නාමාවලිය භාවිතා කිරීමට,
+manager.editor.option.directory.info.link=මෙහි ක්ලික් කරන්න.
+
+manager.editor.button.more=තවත් විකල්පයන්
+manager.editor.option.resolution.name=තිර ප්‍රමාණය 
+manager.editor.option.resolution.height=උස
+manager.editor.option.resolution.width=පළල
+manager.editor.option.resolution.fullscreen=පුන් තිරය
+manager.editor.option.memory.name=උපරිම මතකය (RAM)
+manager.editor.option.memory.auto=ස්වයංක්‍රීය 
+manager.editor.option.memory.disabled.info=ඔබ "Xmx තර්කවලට ඉඩ දෙන්න" සක්‍රීය කර ඇති නිසා මෙම විකල්පය අබල කර ඇත
+manager.editor.option.compatibility.name=අනුකූලතා මාදිලිය
+manager.editor.option.compatibility.enabled=ක්‍රියාත්මක කර ඇත 
+manager.editor.option.compatibility.info=මෙම විකල්පය Skin System අක්‍රිය කරයි, ඔබට අවශ්ය නම් පමණක් එය භාවිතා කරන්න
+manager.editor.option.visibility.name=Launcher දෘශ්‍යතාව
+manager.editor.option.visibility.hide=ක්‍රීඩාව වැසෙන විට Launcher සඟවා නැවත විවෘත කරන්න
+manager.editor.option.visibility.close=ක්‍රීඩාව ආරම්භ වන විට දියත් කිරීම වසන්න
+manager.editor.option.visibility.keep=දියත් කිරීම විවෘතව තබා ක්‍රීඩා ප්‍රතිදානය පෙන්වන්න
+manager.editor.option.visibility.keep.info=පහත් මට්ටමේ පරිගණක සඳහා මෙම විකල්පය නිර්දේශ නොකරයි
+manager.editor.option.jvmpath.name=Java Executable
+manager.editor.option.jvmpath.placeholder=බන්ඩල් කළ Java Runtime එක භාවිතා කරන්න
+manager.editor.option.jvmargs.name=JVM තර්ක
+manager.editor.option.jvmargs.info=මෙම විකල්පය -Xmx තර්ක නොසලකා හරියි, ඒ වෙනුවට උපරිම මතකය භාවිතා කරන්න
+
+manager.modpack.search=Modpacks සොයන්න
+manager.modpack.search.unavailable=සෙවීම නොමැත
+manager.modpack.search.noresults=ප්‍රතිඵල හමු නොවිණි
+manager.modpack.header.info=Modpack තොරතුරු
+manager.modpack.header.back=ආපසු
+manager.modpack.info.install=නවතම ස්ථාපනය කරන්න
+# <modpack name> by <modpack author>
+# Note by Cpt(translator): For Sinhalese, you need change "<modpack name> by <modpack author>" in line 175 to "<modpack author> by <modpack name>"
+manager.modpack.info.by=විසින්
+manager.modpack.details.releasedate=නිකුත් කරන දිනය
+manager.modpack.details.filename=ගොනු නාමය
+manager.modpack.details.gameversion=ක්‍රීඩා අනුවාදය
+manager.modpack.details.action.install=ස්ථාපනය කරන්න
+manager.modpack.pagination.previous=කලින්
+manager.modpack.pagination.next=ඊළඟ
+
+# New Alerts
+alert.duplicate.window.title=අනුපිටපත් අවස්ථා අනතුරු ඇඟවීම
+alert.duplicate.label.title=ඔබට දැනටමත් Minecraft ධාවනය වන අවස්ථාවක් තිබේ.
+alert.duplicate.label.body=ඔබ එම නාමාවලියෙහිම තවත් එකක් දියත් කළහොත්, ඒවා ගැටී ඔබගේ ඉතිරි කිරීම් දූෂිත විය හැක. \nමෙය තනි ක්‍රීඩකයෙකු තුළ හෝ වෙනත් ආකාරයකින් බොහෝ ගැටලු ඇති කළ හැක. වැරදුනොත් අපි වගකියන්නේ නැහැ. \nමෙසේ තිබියදීත්, ඔබට Minecraft හි තවත් අවස්ථාවක් ආරම්භ කිරීමට අවශ්‍යද? \nඔබට ක්‍රීඩාව වෙනත් නාමාවලියක දියත් කිරීමෙන් මෙම ගැටළුව විසඳා ගත හැක ("ස්ථාපනය සංස්කරණය කරන්න" බොත්තම බලන්න).
+alert.downgrade.window.title=නොගැලපෙන ස්ථාපන අනතුරු ඇඟවීම
+alert.downgrade.label.title=ස්ථාපනයන් යළි පිහිටුවන්නද?
+alert.downgrade.label.body=ඔබ මෙයට වඩා වෙනස් දියත් කිරීමක් භාවිතා කර ඇති බව පෙනේ! \nඔබ මෙය භාවිතා කිරීමට ආපසු ගියහොත්, අපට ඔබගේ වින්‍යාසය නැවත සැකසීමට අවශ්‍ය වනු ඇත.
+alert.downgrade.button.reset=මට විශ්වාසයි. මගේ සැකසුම් යළි පිහිටුවන්න
+alert.downgrade.button.cancel=කමක් නැහැ, මෙම දියත් කිරීම වසන්න
+
+alert.invalid.window.title=අවලංගු අනුවාද අනතුරු ඇඟවීම
+alert.invalid.label.title=වලංගු නොවන අනුවාද අනාවරණය විය :(
+alert.invalid.label.body=පහත අනුවාද වලංගු නොවන අතර පූරණය කළ නොහැක. \nසටහන: අපි වෙනත් දියත් කිරීම් හරහා බාගත කළ සමහර අනුවාද සඳහා සහය නොදක්වමු.
+alert.invalid.button.delete=වලංගු නොවන අනුවාද මකන්න
+alert.invalid.button.close=වසන්න
