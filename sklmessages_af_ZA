@@ -1,0 +1,183 @@
+lang.name=Afrikaans
+lang.code=af_ZA
+
+general.issues=Meld 'n probleem aan
+general.support=Ondersteun ons op Patreon
+general.discord=Sluit aan by ons Discord
+general.notready=Hierdie funksie is nog nie gereed nie!
+
+generic.disabled=Gedeaktiveer
+generic.enabled=Geaktiveer
+generic.soon=Binnekort
+generic.new=Nuut
+generic.loading=Laai tans...
+
+tab.news=Opdateringsnuus
+tab.log=Lanseringslog
+tab.output=Speletjie-uitset (%s)
+tab.crash=Foutverslag (%s)
+
+# Sidebar
+sidebar.label.logged=Aangemeld as
+sidebar.label.player=Speler
+sidebar.button.switch=Skakel gebruiker
+sidebar.button.settings=Lansering-instellings
+sidebar.button.manager=Installasiebestuurder
+sidebar.menu.item.edit=Wysig installasie
+sidebar.menu.item.duplicate=Dupliseer installasie
+sidebar.menu.item.browse=Maak installasiegids oop
+sidebar.menu.item.delete=Verwyder installasie
+sidebar.game.button.play=Speel
+sidebar.game.button.play.demo=Speel Demo
+sidebar.game.button.play.offline=Speel Vanlyn
+sidebar.game.button.playing=Speel tans
+sidebar.game.button.already=Reeds besig om te speel
+sidebar.game.button.loading=Laai tans
+sidebar.game.button.preparing=Berei voor
+sidebar.game.button.downloading=Laai af
+sidebar.game.button.installing=Installeer
+sidebar.game.button.launching=Begin
+sidebar.game.button.idle=Onaktief
+
+# Versions List
+versions.category.vanilla=Vanilla
+versions.category.modded=Gemodifiseer
+versions.type.stable=Stabiel
+versions.type.release=Vrygestel
+versions.type.pending=Eksperimenteel
+versions.type.snapshot=Momentopname
+versions.type.historical=Geskiedkundig
+versions.type.old_beta=Ou Beta
+versions.type.old_alpha=Ou Alpha
+versions.type.custom=Pasgemaak
+versions.type.removed=Verwyder
+versions.version.latest=Jongste
+versions.version.latestalt=Jongste weergawe
+versions.version.latest-release=Jongste vrystelling
+versions.version.latest-snapshot=Jongste momentopname
+
+# Crash Screen
+crash.sorry=Oeps! Dit lyk of die speletjie vasgeval het. Jammer vir die ongerief :(
+crash.vanilla=Met 'n bietjie towerkrag en liefde het ons 'n paar besonderhede oor die probleem ingesamel, en ons sal dit so gou moontlik ondersoek. Jy kan die volledige verslag hieronder sien.
+crash.modded=Dit lyk asof jou speletjie gemodifiseer is, en daarom kan ons hierdie foutverslag nie aanvaar nie. As jy mods gebruik, stuur asseblief die verslag na die mod-outeurs.
+crash.open=Maak verslaglêer oop
+crash.alert.title=Oeps! Die speletjie het vasgeval
+crash.alert.text=Maar ons het moontlik 'n oplossing gevind. Wil jy dit nou nagaan?
+crash.alert.button.ignore=Ignoreer
+crash.alert.button.open=Maak webwerf oop
+
+# Crash Popup
+crash.header.title=Speletjie het vasgeval
+crash.footer.button.close=Maak toe
+crash.footer.button.view=Bekyk verslag
+crash.footer.button.link=Kry skakel na verslag
+
+# Alerts
+alert.button.confirm=Bevestig
+alert.button.cancel=Kanselleer
+
+# About
+about.translation=Vertaal deur:
+about.translation.authors=Sharky;
+
+# Login Screen
+login.button.type.microsoft=Meld aan met Microsoft
+login.button.type.offline=Meld vanlyn aan
+login.label.username=Gebruikersnaam
+login.dropdown.name=Aangemelde gebruikers
+login.button.play=Speel
+login.button.logout=Meld af
+login.button.switch.offline=Skakel oor na vanlyn modus
+login.button.switch.online=Skakel oor na aanlyn modus
+
+# Settings
+settings.header.general=Algemeen
+settings.header.updates=Opdaterings
+settings.header.about=Oor
+settings.footer.button.save=Stoor
+
+settings.option.language.name=Taal
+settings.option.language.info=Jy moet die lanseerder herbegin om veranderinge toe te pas.
+settings.option.accent.name=Aksentkleur
+settings.option.theme.name=Tema
+settings.option.theme.light.name=Ligte Tema
+settings.option.theme.dark.name=Donker Tema
+settings.option.theme.black.name=Swart Tema
+settings.option.sorting.name=Sortering van installasies
+settings.option.sorting.bylastplayed.name=Sorteer installasies volgens laas gespeel
+settings.option.sorting.byname.name=Sorteer installasies volgens naam
+settings.option.sorting.custom.name=Pasgemaakte sortering
+settings.option.default.name=Versteek verstek installasies
+settings.option.console.name=Wys lanseerder-konsol
+settings.option.xmx.name=Laat Xmx-argumente toe
+settings.option.xmx.info=Gebruik hierdie opsie as jy weet wat jy doen
+settings.option.performance.name=Prestasiemodus
+settings.option.performance.info=Hierdie opsie skakel sommige animasies af
+settings.option.halloween.name=Halloween-modus
+settings.option.xmas.name=Kersfees-modus
+settings.option.provider.name=Verstek modpack-verskaffer
+settings.option.dgpu.name=Gebruik toegewyde GPU
+settings.option.dgpu.info=Dwing die gebruik van die toegewyde GPU op Windows
+
+settings.about.contributors=Dankie aan alle bydraers:
+
+# Installations Manager
+manager.header.profiles=Installasies
+manager.header.modpacks=Modpakkette
+manager.header.mods=Mods
+manager.header.resourcepacks=Hulpbronne
+manager.header.maps=Kaarte
+manager.header.shaders=Shaders
+
+manager.button.new=Nuwe installasie
+manager.button.import=Voer modpakket in
+manager.profile.button.play=Speel
+manager.profile.menu.edit=Wysig
+manager.profile.menu.duplicate=Dupliseer
+manager.profile.menu.delete=Verwyder
+
+manager.editor.header.title=Wysig installasie
+manager.editor.footer.button.save=Stoor
+manager.editor.option.name.name=Naam van installasie
+manager.editor.option.name.placeholder=Naamlose installasie
+manager.editor.option.version.name=Weergawe
+manager.editor.option.version.vanilla=Vanilla
+manager.editor.option.directory.name=Speletjie-lêergids
+manager.editor.option.directory.placeholder=Gebruik verstek-lêergids
+manager.editor.option.directory.info.label=Sommige mods vereis dat die installasie in die .minecraft-gids is. Om die .minecraft-gids te gebruik,
+manager.editor.option.directory.info.link=klik hier.
+
+manager.editor.button.more=Meer opsies
+manager.editor.option.resolution.name=Resolusie
+manager.editor.option.resolution.height=Hoogte
+manager.editor.option.resolution.width=Breedte
+manager.editor.option.resolution.fullscreen=Volskerm
+manager.editor.option.memory.name=Maksimum Geheue (RAM)
+manager.editor.option.memory.auto=OUTO
+manager.editor.option.memory.disabled.info=Hierdie opsie is gedeaktiveer omdat "Laat Xmx-argumente toe" geaktiveer is
+manager.editor.option.compatibility.name=Versoenbaarheidsmodus
+manager.editor.option.compatibility.enabled=Geaktiveer
+manager.editor.option.compatibility.info=Hierdie opsie deaktiveer die velstelsel, gebruik dit slegs indien nodig
+manager.editor.option.visibility.name=Lanseerder-sigbaarheid
+manager.editor.option.visibility.hide=Steek lanseerder weg en maak oop wanneer speletjie sluit
+manager.editor.option.visibility.close=Maak lanseerder toe wanneer speletjie begin
+manager.editor.option.visibility.keep=Hou lanseerder oop en wys speletjie-uitset
+manager.editor.option.visibility.keep.info=Hierdie opsie word nie aanbeveel vir lae-end rekenaars nie
+manager.editor.option.jvmpath.name=Java-uitvoerbare lêer
+manager.editor.option.jvmpath.placeholder=Gebruik ingeboude Java-runtime
+manager.editor.option.jvmargs.name=JVM-argumente
+manager.editor.option.jvmargs.info=Hierdie opsie ignoreer -Xmx-argumente, gebruik liewer Maksimum Geheue
+
+manager.modpack.search=Soek modpakkette
+manager.modpack.search.unavailable=Soek is nie beskikbaar nie
+manager.modpack.search.noresults=Geen resultate gevind nie
+manager.modpack.header.info=Modpakket Inligting
+manager.modpack.header.back=Terug
+manager.modpack.info.install=Installeer jongste
+manager.modpack.info.by=deur
+manager.modpack.details.releasedate=Vrystellingsdatum
+manager.modpack.details.filename=Lêernaam
+manager.modpack.details.gameversion=Speletjie weergawe
+manager.modpack.details.action.install=Installeer
+manager.modpack.pagination.previous=Vorige
+manager.modpack.pagination.next=Volgende
