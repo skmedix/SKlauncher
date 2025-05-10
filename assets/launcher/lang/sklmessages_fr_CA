@@ -91,7 +91,7 @@ login.button.switch.offline=Passer en mode hors-ligne
 login.button.switch.online=Passer en mode en ligne
 
 # Settings
-settings.header.general=General
+settings.header.general=Général
 settings.header.updates=Mises à jour
 settings.header.about=À propos
 settings.footer.button.save=Enregistrer
