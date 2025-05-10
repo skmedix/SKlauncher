@@ -1,0 +1,200 @@
+lang.name=Français (Canada)
+lang.code=fr_CA
+
+general.issues=Signaler un problème
+general.support=Soutenez-nous sur Patreon
+general.discord=Rejoindre notre discord
+general.notready=Cette fonctionnalité n'est pas encore prête !
+
+generic.disabled=Désactivé
+generic.enabled=Activé
+generic.soon=Bientôt
+generic.new=Nouveau
+generic.loading=Chargement...
+
+tab.news=Nouvelles
+tab.log=Journal du launcher
+tab.output=Sortie du jeu (%s)
+tab.crash=Rapport de plantage (%s)
+
+# Sidebar
+sidebar.label.logged=Connecté comme
+sidebar.label.player=Joueur
+sidebar.button.switch=Changer d'utilisateur
+sidebar.button.settings=Paramètres
+sidebar.button.manager=Gestionnaire d'installations
+sidebar.menu.item.edit=Modifier l'installation
+sidebar.menu.item.duplicate=Dupliquer l'installation
+sidebar.menu.item.browse=Ouvrir le dossier d'installation
+sidebar.menu.item.delete=Supprimer l'installation
+sidebar.game.button.play=Jouer
+sidebar.game.button.play.demo=Jouer à la démo
+sidebar.game.button.play.offline=Jouer hors ligne
+sidebar.game.button.playing=En jeu
+sidebar.game.button.already=Déjà en jeu
+sidebar.game.button.loading=Chargement ...
+sidebar.game.button.preparing=Préparation ...
+sidebar.game.button.downloading=Téléchargement ...
+sidebar.game.button.installing=Installation ...
+sidebar.game.button.launching=Lancement ...
+sidebar.game.button.idle=Inactif
+
+# Versions List
+versions.category.vanilla=Vanilla
+versions.category.modded=Moddé
+versions.type.stable=Stable
+versions.type.release=Release
+versions.type.pending=en attente
+versions.type.snapshot=Snapshot
+versions.type.historical=Historique
+versions.type.old_beta=Ancienne bêta
+versions.type.old_alpha=Ancienne alpha
+versions.type.custom=Customisée
+versions.type.removed=Supprimée
+versions.version.latest=Dernière
+versions.version.latestalt=Dernière version
+versions.version.latest-release=Dernière version
+versions.version.latest-snapshot=Dernière Snapshot
+
+# Crash Screen
+crash.sorry=Wow ! On dirait que le jeu a planté. Désolé pour le dérangement :(
+crash.vanilla=En utilisant la magie et l'amour, nous avons réussi à rassembler quelques détails sur le plantage, et nous étudierons cela dès que possible. Vous pouvez voir le rapport complet ci-dessous.
+crash.modded=Nous croyons que votre jeu est modifié, nous ne pouvons donc pas mener d'enquêtes sur ce plantage. Cependant, vous pouvez envoyer ce rapport aux auteurs du Mod pour qu'ils y jettent un coup d'œil.
+crash.open=Ouvrir le fichier de rapport
+crash.alert.title=Oups! Le jeu vient de planter
+crash.alert.text=Mais nous avons peut-être une solution à ce problème. Voulez-vous la voir maintenant ?
+crash.alert.button.ignore=Ignorer
+crash.alert.button.open=Ouvrir le site web
+
+# Crash Popup
+crash.header.title=Le jeu a planté
+crash.footer.button.close=Fermer
+crash.footer.button.view=Voir le rapport
+crash.footer.button.link=Ouvrir le lien du rapport
+
+# Alerts
+alert.button.confirm=Confirmer
+alert.button.cancel=Annuler
+
+# About
+about.translation=Traduit par :
+about.translation.authors=TirOFlanc, Maxcension, Rayzeq
+
+# Login Screen
+login.button.type.microsoft=Se connecter avec Microsoft
+login.button.type.offline=Se connecter en mode hors-ligne
+login.label.username=Nom d'utilisateur
+login.dropdown.name=Utilisateurs connectés
+login.button.play=Jouer
+login.button.logout=Se déconnecter
+login.button.switch.offline=Passer en mode hors-ligne
+login.button.switch.online=Passer en mode en ligne
+
+# Settings
+settings.header.general=General
+settings.header.updates=Mises à jour
+settings.header.about=À propos
+settings.footer.button.save=Enregistrer
+
+settings.option.language.name=Langue
+settings.option.language.info=Vous devez redémarrer le launcher pour appliquer les changements.
+settings.option.accent.name=Couleur secondaire
+settings.option.theme.name=Thème
+settings.option.theme.light.name=Thème clair
+settings.option.theme.dark.name=Thème sombre
+settings.option.theme.black.name=Thème noir
+settings.option.sorting.name=Ordre des installations
+settings.option.sorting.bylastplayed.name=Mettre en premier celles utilisées plus récemment
+settings.option.sorting.byname.name=Trier les installations par nom
+settings.option.sorting.custom.name=Tri personnalisé
+settings.option.default.name=Cacher les installations par défaut
+settings.option.console.name=Afficher la console du launcher
+settings.option.xmx.name=Autoriser l'utilisation de Xmx
+settings.option.xmx.info=Utilisez cette option si vous savez ce que vous faites
+settings.option.performance.name=Mode performance
+settings.option.performance.info=Cette option désactive certaines animations
+settings.option.halloween.name=Mode Halloween
+settings.option.xmas.name=Mode Noël
+settings.option.provider.name=Fournisseur de modpacks par défaut
+settings.option.dgpu.name=Utiliser la carte graphique dédiée
+settings.option.dgpu.info=Forcer l'utilisation de la carte graphique dédiée sur Windows
+
+settings.about.contributors=Merci à tous les contributeurs:viu34yt
+
+# Installations Manager
+manager.header.profiles=Installations
+manager.header.modpacks=Modpacks
+manager.header.mods=Mods
+manager.header.resourcepacks=Packs de ressources
+manager.header.maps=Mondes
+manager.header.shaders=Shaders
+
+manager.button.new=Nouvelle installation
+manager.button.import=Importer un modpack
+manager.profile.button.play=Jouer
+manager.profile.menu.edit=Modifier
+manager.profile.menu.duplicate=Dupliquer
+manager.profile.menu.delete=Supprimer
+
+manager.editor.header.title=Modifier l'installation
+manager.editor.footer.button.save=Enregistrer
+manager.editor.option.name.name=Nom de l'installation
+manager.editor.option.name.placeholder=Installation sans nom
+manager.editor.option.version.name=Version
+manager.editor.option.version.vanilla=Vanilla
+manager.editor.option.directory.name=Répertoire du jeu
+manager.editor.option.directory.placeholder=Utiliser le répertoire par défaut
+manager.editor.option.directory.info.label=Certains mods peuvent exiger que l'installation soit située dans le dossier .minecraft. Pour utiliser le répertoire de jeu .minecraft,
+manager.editor.option.directory.info.link=cliquez ici.
+
+manager.editor.button.more=Plus d'options
+manager.editor.option.resolution.name=Résolution
+manager.editor.option.resolution.height=Hauteur
+manager.editor.option.resolution.width=Largeur
+manager.editor.option.resolution.fullscreen=Plein écran
+manager.editor.option.memory.name=Mémoire maximale (RAM)
+manager.editor.option.memory.auto=AUTO
+manager.editor.option.memory.disabled.info=Cette option est désactivée parce que « Autoriser l'utilisation de Xmx » est activé
+manager.editor.option.compatibility.name=Mode de compatibilité
+manager.editor.option.compatibility.enabled=Activé
+manager.editor.option.compatibility.info=Cette option désactive le système de skin, ne l'utilisez qu'au besoin
+manager.editor.option.visibility.name=Visibilité du launcher
+manager.editor.option.visibility.hide=Masquer le launcher et le rouvrir à la fermeture du jeu
+manager.editor.option.visibility.close=Fermer le launcher au démarrage du jeu
+manager.editor.option.visibility.keep=Garder le launcher ouvert et montrer la sortie du jeu
+manager.editor.option.visibility.keep.info=Cette option n'est pas recommandée pour les ordinateurs à faible puissance
+manager.editor.option.jvmpath.name=Exécutable java
+manager.editor.option.jvmpath.placeholder=Utiliser la version de Java intégré
+manager.editor.option.jvmargs.name=Arguments de la JVM
+manager.editor.option.jvmargs.info=Cette option ignore -Xmx, utilisez la mémoire maximale à la place.
+
+manager.modpack.search=Rechercher un modpack
+manager.modpack.search.unavailable=La recherche n'est pas disponible
+manager.modpack.search.noresults=Aucun résultat trouvé
+manager.modpack.header.info=Informations du modpack
+manager.modpack.header.back=Retour
+manager.modpack.info.install=Installer la dernière version
+# <modpack name> by <modpack author>
+manager.modpack.info.by=par
+manager.modpack.details.releasedate=Date de publication
+manager.modpack.details.filename=Nom du fichier
+manager.modpack.details.gameversion=Version du jeu
+manager.modpack.details.action.install=Installer
+manager.modpack.pagination.previous=Précédent
+manager.modpack.pagination.next=Suivant
+
+# New Alerts
+alert.duplicate.window.title=Avertissement de double instance
+alert.duplicate.label.title=Une instance de Minecraft est déjà ouverte
+alert.duplicate.label.body=Si vous en lancez une autre dans le même répertoire, elles pourraient entrer en conflit et corrompre vos sauvegardes. \nÇa pourrait causer bien des problèmes, que ce soit en mode solo ou autre. Nous ne serons pas responsables de ce qui pourrait mal se passer. Voulez-vous démarrer une autre instance de Minecraft, malgré ça ? Vous pouvez résoudre ce problème en lançant le jeu dans un autre répertoire (voir le bouton « Modifier l'installation »).
+
+alert.downgrade.window.title=Avertissement d'installations incompatibles
+alert.downgrade.label.title=Réinitialiser les installations ?
+alert.downgrade.label.body=On dirait que vous avez utilisé un autre lanceur que celui-là ! \nSi vous voulez réutiliser celui-ci, nous devrons réinitialiser votre configuration.
+alert.downgrade.button.cancel=Laissez tomber, fermez ce launcher
+
+alert.invalid.window.title=Avertissement de versions invalides
+alert.invalid.label.title=Versions invalides détectées :(
+alert.invalid.label.body=Les versions suivantes sont invalides et ne peuvent pas être chargées. \nRemarque: Nous ne supportons pas certaines versions téléchargées par d'autre launchers.
+alert.invalid.button.delete=Supprimer les versions invalides
+alert.invalid.button.close=Fermer
