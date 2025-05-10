@@ -77,8 +77,8 @@ alert.button.confirm=Confirmer
 alert.button.cancel=Annuler
 
 # About
-about.translation=Traduit par :
-about.translation.authors=TirOFlanc, Maxcension, Rayzeq
+about.translation=Traduit par:
+about.translation.authors=TirOFlanc, Maxcension, Rayzeq, viu34yt
 
 # Login Screen
 login.button.type.microsoft=Se connecter avec Microsoft
