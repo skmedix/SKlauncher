@@ -3,7 +3,7 @@ lang.code=fr_CA
 
 general.issues=Signaler un problème
 general.support=Soutenez-nous sur Patreon
-general.discord=Rejoindre notre discord
+general.discord=Rejoindre notre Discord
 general.notready=Cette fonctionnalité n'est pas encore prête !
 
 generic.disabled=Désactivé
@@ -32,11 +32,11 @@ sidebar.game.button.play.demo=Jouer à la démo
 sidebar.game.button.play.offline=Jouer hors ligne
 sidebar.game.button.playing=En jeu
 sidebar.game.button.already=Déjà en jeu
-sidebar.game.button.loading=Chargement ...
-sidebar.game.button.preparing=Préparation ...
-sidebar.game.button.downloading=Téléchargement ...
-sidebar.game.button.installing=Installation ...
-sidebar.game.button.launching=Lancement ...
+sidebar.game.button.loading=Chargement...
+sidebar.game.button.preparing=Préparation...
+sidebar.game.button.downloading=Téléchargement...
+sidebar.game.button.installing=Installation...
+sidebar.game.button.launching=Lancement...
 sidebar.game.button.idle=Inactif
 
 # Versions List
@@ -61,7 +61,7 @@ crash.sorry=Wow ! On dirait que le jeu a planté. Désolé pour le dérangement 
 crash.vanilla=En utilisant la magie et l'amour, nous avons réussi à rassembler quelques détails sur le plantage, et nous étudierons cela dès que possible. Vous pouvez voir le rapport complet ci-dessous.
 crash.modded=Nous croyons que votre jeu est modifié, nous ne pouvons donc pas mener d'enquêtes sur ce plantage. Cependant, vous pouvez envoyer ce rapport aux auteurs du Mod pour qu'ils y jettent un coup d'œil.
 crash.open=Ouvrir le fichier de rapport
-crash.alert.title=Oups! Le jeu vient de planter
+crash.alert.title=Oups ! Le jeu vient de planter
 crash.alert.text=Mais nous avons peut-être une solution à ce problème. Voulez-vous la voir maintenant ?
 crash.alert.button.ignore=Ignorer
 crash.alert.button.open=Ouvrir le site web
