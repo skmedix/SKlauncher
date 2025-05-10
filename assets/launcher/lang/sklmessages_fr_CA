@@ -195,6 +195,6 @@ alert.downgrade.button.cancel=Laissez tomber, fermez ce launcher
 
 alert.invalid.window.title=Avertissement de versions invalides
 alert.invalid.label.title=Versions invalides détectées :(
-alert.invalid.label.body=Les versions suivantes sont invalides et ne peuvent pas être chargées. \nRemarque: Nous ne supportons pas certaines versions téléchargées par d'autre launchers.
+alert.invalid.label.body=Les versions suivantes sont invalides et ne peuvent pas être chargées.\nRemarque : nous ne supportons pas certaines versions téléchargées par d'autres lanceurs.
 alert.invalid.button.delete=Supprimer les versions invalides
 alert.invalid.button.close=Fermer
